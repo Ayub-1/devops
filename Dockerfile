@@ -1,2 +1,2 @@
-FROM ubuntu:18.04.6
+FROM ubuntu:20.04
 ADD . /var/www/html
