@@ -1,2 +1,2 @@
-FROM ayub-1/webapp
+FROM ayub1/webapp
 ADD . /var/www/html
