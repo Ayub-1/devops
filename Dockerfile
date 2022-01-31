@@ -1,2 +1,2 @@
-FROM ayub-1/website
+FROM ubuntu:18.04
 ADD . /var/www/html
